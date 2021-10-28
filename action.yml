@@ -1,6 +1,6 @@
 # action.yaml
-name: 'Yamllint Github Action'
-author: 'karancode <karanthanvi0@gmail.com>'
+name: 'Rapido Yamllint Github Action'
+author: 'system@rapido.bike'
 description: 'Github action for Yamllint - manily to liniting yaml files for k8s config'
 branding:
   icon: 'sliders'
